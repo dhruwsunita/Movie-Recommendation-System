@@ -17,8 +17,10 @@ This project is a content-based movie recommendation system built using machine 
 ### Data Sources
 
 The dataset used in this project is sourced from [credits.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv) and [movies.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv). It contains information about various movies including titles, descriptions, genres, etc.
-[Similarity.pkl]()
+[Similarity.pkl](https://drive.google.com/file/d/1Mhqjkn1Lz64R0k3Hylw80dd_ZAI-HZXu/view?usp=sharing) is the another important model file for prediction.
+
 Download Dataset from Kaggle - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 ### Technologies Used
 - Python
 - Machine Learning
